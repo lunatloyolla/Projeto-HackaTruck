@@ -1,0 +1,378 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		A13165BB2B6D23D700626848 /* PereiraoHackaTrcukApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A13165BA2B6D23D700626848 /* PereiraoHackaTrcukApp.swift */; };
+		A13165BD2B6D23D700626848 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A13165BC2B6D23D700626848 /* ContentView.swift */; };
+		A13165BF2B6D23D800626848 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A13165BE2B6D23D800626848 /* Assets.xcassets */; };
+		A13165C22B6D23D800626848 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A13165C12B6D23D800626848 /* Preview Assets.xcassets */; };
+		A18DB75D2B711DE0007ACE75 /* TipoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A18DB75C2B711DE0007ACE75 /* TipoView.swift */; };
+		A18DB75F2B711E0A007ACE75 /* ViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A18DB75E2B711E09007ACE75 /* ViewModel.swift */; };
+		A1E9A4412B73A78D005E1D33 /* TelaMapa.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1E9A4402B73A78D005E1D33 /* TelaMapa.swift */; };
+		A1E9A4432B73A7FB005E1D33 /* ModelMapa.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1E9A4422B73A7FB005E1D33 /* ModelMapa.swift */; };
+		A1E9A4452B73A81F005E1D33 /* StructMapa.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1E9A4442B73A81F005E1D33 /* StructMapa.swift */; };
+		A1E9A4472B73AB01005E1D33 /* CategoriasView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1E9A4462B73AB01005E1D33 /* CategoriasView.swift */; };
+		A1E9A4492B73AF16005E1D33 /* ChatView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1E9A4482B73AF16005E1D33 /* ChatView.swift */; };
+		A1E9A44D2B73B107005E1D33 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1E9A44C2B73B107005E1D33 /* MainView.swift */; };
+		A1E9A44F2B73B84C005E1D33 /* PerfilView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1E9A44E2B73B84C005E1D33 /* PerfilView.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		A13165B72B6D23D700626848 /* PereiraoHackaTrcuk.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PereiraoHackaTrcuk.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		A13165BA2B6D23D700626848 /* PereiraoHackaTrcukApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PereiraoHackaTrcukApp.swift; sourceTree = "<group>"; };
+		A13165BC2B6D23D700626848 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		A13165BE2B6D23D800626848 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		A13165C12B6D23D800626848 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		A18DB75C2B711DE0007ACE75 /* TipoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TipoView.swift; sourceTree = "<group>"; };
+		A18DB75E2B711E09007ACE75 /* ViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModel.swift; sourceTree = "<group>"; };
+		A1E9A4402B73A78D005E1D33 /* TelaMapa.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TelaMapa.swift; sourceTree = "<group>"; };
+		A1E9A4422B73A7FB005E1D33 /* ModelMapa.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelMapa.swift; sourceTree = "<group>"; };
+		A1E9A4442B73A81F005E1D33 /* StructMapa.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StructMapa.swift; sourceTree = "<group>"; };
+		A1E9A4462B73AB01005E1D33 /* CategoriasView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoriasView.swift; sourceTree = "<group>"; };
+		A1E9A4482B73AF16005E1D33 /* ChatView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatView.swift; sourceTree = "<group>"; };
+		A1E9A44C2B73B107005E1D33 /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
+		A1E9A44E2B73B84C005E1D33 /* PerfilView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PerfilView.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		A13165B42B6D23D700626848 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		A13165AE2B6D23D700626848 = {
+			isa = PBXGroup;
+			children = (
+				A13165B92B6D23D700626848 /* PereiraoHackaTrcuk */,
+				A13165B82B6D23D700626848 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		A13165B82B6D23D700626848 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				A13165B72B6D23D700626848 /* PereiraoHackaTrcuk.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		A13165B92B6D23D700626848 /* PereiraoHackaTrcuk */ = {
+			isa = PBXGroup;
+			children = (
+				A13165BA2B6D23D700626848 /* PereiraoHackaTrcukApp.swift */,
+				A13165BC2B6D23D700626848 /* ContentView.swift */,
+				A13165BE2B6D23D800626848 /* Assets.xcassets */,
+				A13165C02B6D23D800626848 /* Preview Content */,
+				A18DB75C2B711DE0007ACE75 /* TipoView.swift */,
+				A18DB75E2B711E09007ACE75 /* ViewModel.swift */,
+				A1E9A4402B73A78D005E1D33 /* TelaMapa.swift */,
+				A1E9A4422B73A7FB005E1D33 /* ModelMapa.swift */,
+				A1E9A4442B73A81F005E1D33 /* StructMapa.swift */,
+				A1E9A4462B73AB01005E1D33 /* CategoriasView.swift */,
+				A1E9A4482B73AF16005E1D33 /* ChatView.swift */,
+				A1E9A44C2B73B107005E1D33 /* MainView.swift */,
+				A1E9A44E2B73B84C005E1D33 /* PerfilView.swift */,
+			);
+			path = PereiraoHackaTrcuk;
+			sourceTree = "<group>";
+		};
+		A13165C02B6D23D800626848 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				A13165C12B6D23D800626848 /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		A13165B62B6D23D700626848 /* PereiraoHackaTrcuk */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A13165C52B6D23D800626848 /* Build configuration list for PBXNativeTarget "PereiraoHackaTrcuk" */;
+			buildPhases = (
+				A13165B32B6D23D700626848 /* Sources */,
+				A13165B42B6D23D700626848 /* Frameworks */,
+				A13165B52B6D23D700626848 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = PereiraoHackaTrcuk;
+			productName = PereiraoHackaTrcuk;
+			productReference = A13165B72B6D23D700626848 /* PereiraoHackaTrcuk.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		A13165AF2B6D23D700626848 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1420;
+				LastUpgradeCheck = 1420;
+				TargetAttributes = {
+					A13165B62B6D23D700626848 = {
+						CreatedOnToolsVersion = 14.2;
+					};
+				};
+			};
+			buildConfigurationList = A13165B22B6D23D700626848 /* Build configuration list for PBXProject "PereiraoHackaTrcuk" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = A13165AE2B6D23D700626848;
+			productRefGroup = A13165B82B6D23D700626848 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				A13165B62B6D23D700626848 /* PereiraoHackaTrcuk */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		A13165B52B6D23D700626848 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A13165C22B6D23D800626848 /* Preview Assets.xcassets in Resources */,
+				A13165BF2B6D23D800626848 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		A13165B32B6D23D700626848 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A18DB75D2B711DE0007ACE75 /* TipoView.swift in Sources */,
+				A1E9A4452B73A81F005E1D33 /* StructMapa.swift in Sources */,
+				A13165BD2B6D23D700626848 /* ContentView.swift in Sources */,
+				A1E9A44D2B73B107005E1D33 /* MainView.swift in Sources */,
+				A1E9A44F2B73B84C005E1D33 /* PerfilView.swift in Sources */,
+				A18DB75F2B711E0A007ACE75 /* ViewModel.swift in Sources */,
+				A1E9A4492B73AF16005E1D33 /* ChatView.swift in Sources */,
+				A1E9A4472B73AB01005E1D33 /* CategoriasView.swift in Sources */,
+				A1E9A4412B73A78D005E1D33 /* TelaMapa.swift in Sources */,
+				A1E9A4432B73A7FB005E1D33 /* ModelMapa.swift in Sources */,
+				A13165BB2B6D23D700626848 /* PereiraoHackaTrcukApp.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		A13165C32B6D23D800626848 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		A13165C42B6D23D800626848 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		A13165C62B6D23D800626848 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"PereiraoHackaTrcuk/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.br.thalesdarini.hackatruck.PereiraoHackaTrcuk;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		A13165C72B6D23D800626848 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"PereiraoHackaTrcuk/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.br.thalesdarini.hackatruck.PereiraoHackaTrcuk;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		A13165B22B6D23D700626848 /* Build configuration list for PBXProject "PereiraoHackaTrcuk" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A13165C32B6D23D800626848 /* Debug */,
+				A13165C42B6D23D800626848 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A13165C52B6D23D800626848 /* Build configuration list for PBXNativeTarget "PereiraoHackaTrcuk" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A13165C62B6D23D800626848 /* Debug */,
+				A13165C72B6D23D800626848 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = A13165AF2B6D23D700626848 /* Project object */;
+}

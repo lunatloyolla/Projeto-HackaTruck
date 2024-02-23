@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "1D302941-A81A-4FE5-B092-930D92A4FA15"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5E87DAC7-5FDE-42DF-A1CA-9DEEB388FBB9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PereiraoHackaTrcuk/ViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "8"
+            endingLineNumber = "8"
+            landmarkName = "BaixarDados(query:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5E87DAC7-5FDE-42DF-A1CA-9DEEB388FBB9 - d36c26a89076f900"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PereiraoHackaTrcuk.ViewModel.BaixarDados() -&gt; ()"
+                  moduleName = "PereiraoHackaTrcuk"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/student11/Documents/UNIFESSPA/PereiraoHackaTrcuk/PereiraoHackaTrcuk/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "8"
+                  endingLineNumber = "8"
+                  offsetFromSymbolStart = "192">
+               </Location>
+               <Location
+                  uuid = "5E87DAC7-5FDE-42DF-A1CA-9DEEB388FBB9 - d36c26a89076f900"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PereiraoHackaTrcuk.ViewModel.BaixarDados() -&gt; ()"
+                  moduleName = "PereiraoHackaTrcuk"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/student11/Documents/UNIFESSPA/PereiraoHackaTrcuk/PereiraoHackaTrcuk/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "8"
+                  endingLineNumber = "8"
+                  offsetFromSymbolStart = "276">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CD0A8458-E3EF-4D1B-B997-123ABC2F71ED"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PereiraoHackaTrcuk/ViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "BaixarDados(query:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CD0A8458-E3EF-4D1B-B997-123ABC2F71ED - eac5be955d664c64"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in PereiraoHackaTrcuk.ViewModel.BaixarDados() -&gt; ()"
+                  moduleName = "PereiraoHackaTrcuk"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/student11/Documents/UNIFESSPA/PereiraoHackaTrcuk/PereiraoHackaTrcuk/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "304">
+               </Location>
+               <Location
+                  uuid = "CD0A8458-E3EF-4D1B-B997-123ABC2F71ED - eac5be955d664c64"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in PereiraoHackaTrcuk.ViewModel.BaixarDados() -&gt; ()"
+                  moduleName = "PereiraoHackaTrcuk"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/student11/Documents/UNIFESSPA/PereiraoHackaTrcuk/PereiraoHackaTrcuk/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "360">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3408C2CA-2EDE-4E21-86DC-66C2AECCA70B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PereiraoHackaTrcuk/ViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "BaixarDados(query:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3408C2CA-2EDE-4E21-86DC-66C2AECCA70B - eac5be955d664d7f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in PereiraoHackaTrcuk.ViewModel.BaixarDados() -&gt; ()"
+                  moduleName = "PereiraoHackaTrcuk"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/student11/Documents/UNIFESSPA/PereiraoHackaTrcuk/PereiraoHackaTrcuk/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "656">
+               </Location>
+               <Location
+                  uuid = "3408C2CA-2EDE-4E21-86DC-66C2AECCA70B - f480ed5754cd8eb9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in PereiraoHackaTrcuk.ViewModel.BaixarDados() -&gt; ()"
+                  moduleName = "PereiraoHackaTrcuk"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/student11/Documents/UNIFESSPA/PereiraoHackaTrcuk/PereiraoHackaTrcuk/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
