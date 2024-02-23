@@ -4,3 +4,7 @@ O principal Objetivo do aplicativo "Pereirão" é facilitar a contratação de s
 
 
 ![Logo2](https://github.com/lunatloyolla/Projeto-HackaTruck/assets/112090620/d99a63dc-e3f5-4f77-8e8e-d6f92d184a45)
+
+
+
+Criadores: Luna Trindade, Guilherme Lima, Luan Diniz, Nycolas Tavares
