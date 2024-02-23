@@ -7,4 +7,4 @@ O principal Objetivo do aplicativo "Pereirão" é facilitar a contratação de s
 
 
 
-Criadores: Luna Trindade, Guilherme Lima, Luan Diniz, Nycolas Tavares
+Luna Trindade, Guilherme Lima, Luan Diniz, Nycolas Tavares
